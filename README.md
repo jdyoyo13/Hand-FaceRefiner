@@ -1,6 +1,8 @@
 # Hand-FaceRefiner
 ComfyUI Hand Face Refiner
 
+Download .json and add to ComfyUI/web folder. Use "Load" button on Menu.
+
 
 FOR HANDS TO COME OUT PROPERLY:
 
