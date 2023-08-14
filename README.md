@@ -18,5 +18,7 @@ Orignal work by Sytan: https://github.com/SytanSD/Sytan-SDXL-ComfyUI
 Face Refinement addition by RenderArtist: https://renderartist.com 
 
 Hand Refinement addition by:
-@TropicalCreationsAI (reddit, Patreon)
-jdyoyo13 (github)
+@TropicalCreationsAI (reddit, instagram, Patreon)
+jdyoyo13 (github) https://github.com/jdyoyo13
+
+If you tweak, give some credit to those before!
